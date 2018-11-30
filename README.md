@@ -1,1 +1,1 @@
-# Double-Ended-Queue-DEQUE-
+# Double-Ended-Queue-DEQUEUE-
